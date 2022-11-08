@@ -3,9 +3,10 @@ ___
 ![](halloween.jpg)
 ___
 # Recetas escalofriantes 🎃
-##### ✝ Este halloween que no te asusten...! 
-##### ✝ Prepara la receta más terroríficamente deliciosa para este noche de los muertos.
-##### ✝ Se acercan dos recetas super sencillas...
+ ### ✝ Este halloween que no te asusten...! 
+ * ✝ Prepara la receta más terroríficamente deliciosa para este noche de los muertos.
+ * ✝ Se acercan dos recetas super sencillas...
+
 > https://www.directoalpaladar.com/recetario/11-recetas-faciles-y-rapidas-para-halloween
 
 # **1.Ojos de queso espeluznantes** 👁️
@@ -40,11 +41,11 @@ ___
 | Queso cheddar rayado      | ----------         |
 | Guacamole                 | *( al gusto )*     |
   
-### Enlace:
+### Enlaces de la práctica:
   
 > https://www.directoalpaladar.com/recetas-de-aperitivos/quesadillas-calabaza-halloween-guacamole-receta-facil-divertida-para-fiesta-casa
 
-
+**[![](github.jpg)](https://github.com/Javi14Bueno/P04--Entornos)**
   
 
 
